@@ -4,29 +4,26 @@
 <head>
     <meta charset="UTF-8" />
     <link rel="stylesheet" href="./assets/css/style.css">
-    <title>Horiseon Website</title>
+    <title>Horiseon</title>
 </head>
 
 <body>
-    <div class="header">
+    <header class="header">
         <!-- took out the span and class in h1-->
         <h1>Horiseon</h1>
-        <div>
-            <ul>
-                <li>
-                    <a href="#search-engine-optimization">Search Engine Optimization</a>
-                </li>
-                <li>
-                    <a href="#online-reputation-management">Online Reputation Management</a>
-                </li>
-                <li>
-                    <a href="#social-media-marketing">Social Media Marketing</a>
-                </li>
-            </ul>
-        </div>
-    </div>
+            <nav>
+                <ul>
+                    <li id="item 1"><a href="#search-engine-optimization">Search Engine Optimization</a></li>
+                    <li id="item 2"><a href="#online-reputation-management">Online Reputation Management</a></li> 
+                    <li id="item 3"> <a href="#social-media-marketing">Social Media Marketing</a></li> 
+                </ul>
+            </nav>     
+    </header>
+            <!--made the list items more organized-->
+    
     <div class="hero"></div>
-    <div class="content">
+   
+    <main class="content">
        <!-- added alt for all images and id for search engine -->
         <div id="search-engine-optimization" class="search-engine-optimization" >
             <img src="./assets/images/search-engine-optimization.jpg" alt="Engine-Optimization" class="float-left"/>
@@ -44,6 +41,7 @@
             </p>
         </div>
         
+        
         <div id="social-media-marketing" class="social-media-marketing">
             <img src="./assets/images/social-media-marketing.jpg" alt="media-marketing" class="float-left"/>
             <h2>Social Media Marketing</h2>
@@ -51,7 +49,7 @@
                 Social media continues to have a sizable influence on buying habits. Social media marketing helps you determine which platforms are suited to your brand, using analytics to find the right markets and increase your lead generation.
             </p>
         </div>
-    </div>
+   
     <div class="benefits">
         <div class="benefit-lead">
             <h3>Lead Generation</h3>
@@ -75,12 +73,13 @@
             </p>
         </div>
     </div>
-    <div class="footer">
-        <h2>Made with ❤️️ by Horiseon</h2>
-        <p>
-            &copy; 2024 Horiseon Social Solution Services, Inc.
-        </p>
-    </div>
+   
+    <footer class="footer">
+        <h4>Made with ❤️️ by Horiseon</h4>
+            <p>
+                &copy; 2024 Horiseon Social Solution Services, Inc.
+            </p>
+    </footer><!--changed div to footer and structured the code better and made it H4-->
 </body>
 
 </html>
