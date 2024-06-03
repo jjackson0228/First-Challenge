@@ -1,2 +1,2 @@
-# First-Challenge
+# Horiseon Webpage Accessibility
 First bootcamp challenge
