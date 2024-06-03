@@ -9,10 +9,11 @@
   
 
 #### Tools Used
-  Vscode
-  Wave Chrome Extension
+ - Visual Studio Code
+ - Wave Chrome Extension
 
 ##### Languages Used
-  HTMl and CSS. The files to create for these are a (index.html) and (style.css)
+  - HTMl  file type (index.html)
+  - CSS file type (style.css)
 
   
