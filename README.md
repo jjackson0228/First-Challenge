@@ -13,7 +13,7 @@
  - Wave Chrome Extension
 
 ##### Languages Used
-  - HTMl  file type (index.html)
-  - CSS file type (style.css)
+  - HTML  file type (index.html)
+  - CSS  file type (style.css)
 
   
