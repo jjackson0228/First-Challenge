@@ -4,7 +4,7 @@
 
 ## Screenshot
 
-
+![image](https://github.com/jjackson0228/Horiseon-webpage-project/assets/170039832/9981e703-1506-4bcc-864e-1229516bb582)
 ### Links
   
 
